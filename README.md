@@ -1,4 +1,5 @@
-#Java Web App on EC2 with Docker & Jenkins
+# Deploy your code on a Docker Container using Jenkins on AWS
+
 ![AWS](https://imgur.com/Hk28ffE.png)
 
 **In this blog, we are going to deploy a Java Web app on a Docker Container built on an EC2 Instance through the use of Jenkins.**
